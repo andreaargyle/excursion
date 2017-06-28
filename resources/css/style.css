@@ -38,6 +38,12 @@ img {
   padding: 20px;
 }
 
+/* Video */
+
+video {
+    object-fit: contain;
+}
+
 /* Footer */
 
 footer p {

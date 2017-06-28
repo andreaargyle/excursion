@@ -31,3 +31,9 @@ p {
   font-size: 21px;
   color: Gray;
 }
+
+/* Images */
+
+img {
+  padding: 20px;
+}
